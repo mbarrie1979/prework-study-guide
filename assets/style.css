@@ -24,9 +24,15 @@ img {
     margin-right: auto;
 }
 
-ul {
+ul,
+h2 {
     padding-left: 40px;
     font-size: 20px;
+    font-family: Arial, sans-serif;
+    color: #fff;
+    text-shadow: 1px 1px 2px #000,
+        2px 2px 4px #000,
+        3px 3px 6px #000;
 }
 
 p {
