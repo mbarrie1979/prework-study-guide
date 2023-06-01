@@ -1,5 +1,5 @@
 body {
-    background-color: #13e4c1;
+    background-color: #67e413;
     /* This is a light gray color */
 }
 
@@ -21,6 +21,7 @@ h2 {
     text-align: center;
 }
 
+
 img {
     display: block;
     height: 50px;
@@ -34,7 +35,7 @@ h2 {
     padding-left: 40px;
     font-size: 20px;
     font-family: Arial, sans-serif;
-    color: #fff;
+    color: #f68300;
     text-shadow: 1px 1px 2px #000,
         2px 2px 4px #000,
         3px 3px 6px #000;
