@@ -1,14 +1,14 @@
 
 
-# <Your-Project-Title>
+# <Prework Study Guide WebPage>
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+This page is meant to aide in studying 4 topics related to Wed Design: HTML, CSS, Git, and JavaScript
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
+I built this webpage to challenge me in the studying process. 
+This page was created to help the monotany of studying by randomizing the subject to be studied.
+Sometimes deciding what to study can feel like a burden in and of itself. Instead, allowing the webpage to decide for you can help with what can feel like a daunting task. 
 - What did you learn?
 
 ## Table of Contents (Optional)
