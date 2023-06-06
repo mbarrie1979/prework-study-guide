@@ -24,7 +24,7 @@ Hold down option command J (on Mac) or control shift J (on PC).  This shhould op
 It should look like the screen shot provided. 
 Refresh the page to see different, random topics to study. 
 
-![screenshot](assets/images/screenshot.png)
+![screenshot](assets/images/Screenshot.png)
 
 ## Credits
 
